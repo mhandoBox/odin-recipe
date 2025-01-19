@@ -1,0 +1,15 @@
+* {
+    font-family:'Courier New', Courier, monospace, Arial, Helvetica, sans-serif;
+}
+a {
+    color: rgb(177, 89, 7);
+    text-decoration: none;
+}
+.Header{
+    width: 100%;
+    align-items: right;
+}
+.Header img{
+    height: 300px;
+    width: 300px;
+}
